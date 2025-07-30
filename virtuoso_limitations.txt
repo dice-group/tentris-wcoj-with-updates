@@ -1,0 +1,3 @@
+HTTP/1.1 400 Bad Request
+Virtuoso 37000 Error SP031: SPARQL: Internal error: The length of generated SQL text has exceeded 10000 lines of code
+https://github.com/openlink/virtuoso-opensource/blob/34c367c417220cde3b20d90ad97ac6c6dd499b0f/libsrc/Wi/sparql2sql.h#L1031
